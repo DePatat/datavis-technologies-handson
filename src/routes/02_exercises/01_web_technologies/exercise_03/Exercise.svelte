@@ -10,3 +10,9 @@
         angle
     </li>
 </ul>
+
+<style>
+    li {
+        font-style: italic;
+    }
+</style>
